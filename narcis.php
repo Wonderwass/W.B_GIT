@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/narcis.css">
     <title>Document</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com%22%3E/">
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="container">
@@ -16,9 +16,9 @@
         <form>
         <div class="div_3">
             <div class="div_1">
-            <input type="text" id="nom" value="NOM">
-            <input type="text" id="email"  value="EMAIL">
-            <input type="text" id="téléphone" value="n° de téléphone">
+            <input type="text" id="nom" value="First Name">
+            <input type="text" id="email"  value="Last Name">
+            <input type="email" id="téléphone" value="Email">
             </div>
             <div class="div_2">
             <select name="" id="plat">
