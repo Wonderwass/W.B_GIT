@@ -25,7 +25,7 @@
 <option value="">Choisir un plat</option>
 <option value="15">thiebou dieune </option>
 <option value="12">salade de quinoa </option>
-<option value="11">sushi burger</option>
+<option value="11">sushi burgers</option>
 <option value="9">filets de poulets panés</option>
             </select>
             <select name="" id="dessert">
