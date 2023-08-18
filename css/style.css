@@ -1,5 +1,6 @@
 body {
   background-image: url(../img/70de6b1d8adecd34b4a3e086ac7a855f.jpg);
+  
 }
 
 .container {
@@ -7,10 +8,11 @@ body {
 
   width: 40%;
 
-  height: 500px;
+  height: 600px;
 
   margin-top: 151px;
   margin-left: 535px;
+  color: black;
 }
 
 h1 {
@@ -208,4 +210,12 @@ input {
   padding-top: 30px;
 
   color: rgba(73, 52, 8, 0.77);
+}
+
+.derea{
+  height: 80px;
+  width: 90px;
+}
+.cv{
+  
 }
