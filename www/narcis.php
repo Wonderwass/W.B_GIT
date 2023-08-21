@@ -74,6 +74,6 @@
     </p>
         </form>
     </div>
-<script src="formulaire_exo.js"></script>
+    <script src="formulaire_exo.js"></script>
 </body>
 </html>
